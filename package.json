@@ -1,0 +1,19 @@
+{
+  "name": "automation-command-git-cli",
+  "version": "1.0.0",
+  "description": "project of in command-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X-Dev-Team-0x/automation-command-git.git"
+  },
+  "author": "Pradelson,Tatiana,Treft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/X-Dev-Team-0x/automation-command-git/issues"
+  },
+  "homepage": "https://github.com/X-Dev-Team-0x/automation-command-git#readme"
+}
